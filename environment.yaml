@@ -76,4 +76,4 @@ dependencies:
   - xz=5.2.6=h8d14728_0
   - zeromq=4.3.5=he1f189c_4
   - zipp=3.19.2=pyhd8ed1ab_0
-prefix: C:\Users\Vincent\miniconda3\envs\project_env
+prefix: C:\Users\Vincent\miniconda3\envs\project-env
